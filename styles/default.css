@@ -1,0 +1,76 @@
+#intro {
+	color: #1B998B;
+	word-spacing: 15px;
+}
+#contract {
+	color: #FF9B71;
+	word-spacing: 20px;
+}
+#template {
+	color: #FFFD82;
+	word-spacing: 15px;
+}
+header {
+	font-family: monospace;
+	text-align: center;
+}
+body {
+  margin: 25px;
+  background-color: #2D3047;
+  font-family: sans-serif;
+  color: #1B998B;
+  font-size: 1.5em;
+}
+h1 {
+   text-align: center;
+   font-family: fantasy;
+   color: #ED217C;
+}
+figure {
+   text-align: center;
+   font-style: italic;
+   color: #ED217C;
+   font-weight: bold;
+}
+nav a {
+	color: #ED217C;
+	font-family: monospace;
+	font-size: 1em;
+	word-spacing: 50px;
+}
+footer {
+	text-align: center;
+	color: #FFFD82;
+	font-family: cursive;
+}
+#name {
+	color: #FFFD82;
+	font-style: italic;
+} 
+#personal {
+	color: #ED217C;
+}
+#professional {
+	color: #FF9B71;
+}
+#academic {
+	color: #ED217C;
+}
+#primary {
+	color: #FF9B71;
+}
+#courses {
+	color: #ED217C;
+}
+#web {
+	color: #FF9B71;
+}
+#cti {
+	color: #FF9B71;
+}
+#something {
+	color: #ED217C;
+}
+#share {
+	color: #FF9B71;
+}

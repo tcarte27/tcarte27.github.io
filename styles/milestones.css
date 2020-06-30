@@ -1,0 +1,33 @@
+body {
+	background-color: #9EE493;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	color: #0D3B66;
+}
+header {
+	color: #F95738;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Great Vibes', cursive;
+	font-size: 150%;
+}
+h2 {
+	color: #963484;
+	font-family: 'Roboto', sans-serif;
+}
+.related
+{
+	color: #F95738;
+	font-style: italic;
+}
+nav a {
+	color: #A833B9;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	word-spacing: 50px;
+}
+footer {
+	text-align: center;
+	color: #F95738;
+	font-family: 'Lobster', cursive;
+}
